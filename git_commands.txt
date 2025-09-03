@@ -5,3 +5,9 @@ git add .
 git commit -m " "
 git restore testing.py
 rm testing.py
+
+git remote add origin https://github.com/satyamkumarmishra2005/github-for-devops-workshop.git
+
+git push -u origin main
+
+git remote -v
