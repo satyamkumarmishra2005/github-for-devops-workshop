@@ -11,3 +11,4 @@ git remote add origin https://github.com/satyamkumarmishra2005/github-for-devops
 git push -u origin main
 
 git remote -v
+added some new features
