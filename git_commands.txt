@@ -16,7 +16,7 @@ git pull origin main
 
 git branch dev 
 
-git switch dev
+git switch dev  / git checkout dev 
 
 
 
